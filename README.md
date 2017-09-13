@@ -1,2 +1,2 @@
 # eazyadmission
-This project using react native along with meteor. Also using tcomb-native-form to capture user data. This uses spencer carli reat-native-meteor-boilerplate as base.
+A project for creating common platform for school admissions. The app is made for ios and android platform. Backend uses meteorjs.
